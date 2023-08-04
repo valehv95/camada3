@@ -1,3 +1,7 @@
 Hola Mundo!
+<<<<<<< HEAD
 
 cómo estás?
+=======
+Mensaje escrito por Thiare, para prueba
+>>>>>>> d53430632c0a6b4eb6c8c54a406c5bc454f5de2b
